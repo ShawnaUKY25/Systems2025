@@ -1,9 +1,13 @@
 # Systems2025
 This is a GitHub Exercise for Week 3 of the Systems Librarianship course.
-## Grocery List
-*Bread
-***Milk** 
-*Eggs
+## University of Kentucky - Master’s in Information and Library Science
+### Why Choose UK’s Library Science Program?
+The **Master of Science in Library Science (MSLS)** at the *University of Kentucky* is designed to prepare students for careers in:
+-**Academic Libraries**
+-**Public Libraries**
+-**School Libraries**
+-**Archival and Special Collections**
+
 ## To Do List
 1. Give the cat a bath
 2. Clean off my desk
